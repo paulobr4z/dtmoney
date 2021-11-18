@@ -6,7 +6,7 @@ import {
   Container
 } from './styles';
 
-export default function Summary() {
+export function Summary() {
   return (
     <Container>
       <div>
